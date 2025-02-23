@@ -1,5 +1,5 @@
 <div aling="center">
-<h1>Hola soy Iván Paniagua Sánchez</h1>
+<h1 style="text-align='center';">⭐​ Iván Paniagua Sánchez ⭐​</h1>
 
 
   
