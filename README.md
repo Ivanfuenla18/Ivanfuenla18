@@ -6,9 +6,9 @@
 
 🚀 Me encanta programar y siempre estoy explorando nuevas tecnologías para mejorar mis habilidades. Tengo experiencia con:
 
-- **Frontend:** HTML, CSS, JavaScript, React  
-- **Backend:** PHP, Java, Python  
-- **Bases de datos:** MySQL  
+- **🖥️ Frontend:** HTML, CSS, JavaScript, React  
+- **⚙️ Backend:** PHP, Java, Python  
+- **🗄️ Bases de datos:** MySQL  
 
 🎯 Mi objetivo es crear **soluciones eficientes y bien estructuradas**, ya sea en desarrollo web, aplicaciones móviles o software de escritorio.  
 
@@ -16,9 +16,10 @@
 
 ## 📫 Conéctate conmigo:
 
-- [GitHub](https://github.com/Ivanfuenla18)  
-- [LinkedIn](https://www.linkedin.com/in/iván-paniagua-194314205/)  
-- 📩 **Correo:** [ivanfuenla18@gmail.com](mailto:ivanfuenla18@gmail.com)
+- 🔗 **GitHub:** [github.com/Ivanfuenla18](https://github.com/Ivanfuenla18)  
+- 💼 **LinkedIn:** [linkedin.com/in/iván-paniagua-194314205](https://www.linkedin.com/in/iván-paniagua-194314205/)  
+- ✉️ **Correo:** [📩 ivanfuenla18@gmail.com](mailto:ivanfuenla18@gmail.com)
+
 ---
 
 © 2025 Iván Paniagua Sánchez | Todos los derechos reservados
