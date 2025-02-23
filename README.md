@@ -17,7 +17,7 @@
 ## 📫 Conéctate conmigo:
 
 - [GitHub](https://github.com/Ivanfuenla18)  
-- [LinkedIn](in/iván-paniagua-194314205)  
+- [LinkedIn](https://www.linkedin.com/in/iván-paniagua-194314205/)  
 
 ---
 
