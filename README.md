@@ -1,6 +1,6 @@
 # ⭐ Iván Paniagua Sánchez ⭐
 
-![Banner de Iván Paniagua Sánchez](https://media.licdn.com/dms/image/v2/D4D16AQEnl_O6gXwsHw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1737642465159?e=1746057600&v=beta&t=MHaVmPs4RpSccXPZ7jUpxXoiAeAuOfwtAJ-7-F-bCR8)
+![Banner de Iván Paniagua Sánchez](https://media.licdn.com/dms/image/v2/D4D16AQEnl_O6gXwsHw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1737642465159?e=1752710400&v=beta&t=u57tOBBVYJtNYevGhUcX2a6jU0k7cRkjeTxZVY1GAVc)
 
 💻 Apasionado del desarrollo de software con formación en **Desarrollo de Aplicaciones Web (DAW)** y **Desarrollo de Aplicaciones Multiplataforma (DAM)**.
 
