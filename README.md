@@ -6,7 +6,7 @@
 
 🚀 Me encanta programar y siempre estoy explorando nuevas tecnologías para mejorar mis habilidades. Tengo experiencia con:
 
-- **🖥️ Frontend:** HTML, CSS, JavaScript, React  
+- **🖥️ Frontend:** HTML, CSS, JavaScript, React , Tailwind
 - **⚙️ Backend:** Node, PHP, Java, Python   
 - **🗄️ Bases de datos:** MySQL  
 
